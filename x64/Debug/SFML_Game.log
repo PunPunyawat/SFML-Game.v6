@@ -1,0 +1,13 @@
+﻿  Animation.cpp
+C:\Users\Pun Punyawat\OneDrive\Desktop\SFML\SFML_Game\SFML_Game\Animation.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  background.cpp
+C:\Users\Pun Punyawat\OneDrive\Desktop\SFML\SFML_Game\SFML_Game\background.h(2,9): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Bullet.cpp
+C:\Users\Pun Punyawat\OneDrive\Desktop\SFML\SFML_Game\SFML_Game\weapon.h(2,9): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  main.cpp
+C:\Users\Pun Punyawat\OneDrive\Desktop\SFML\SFML_Game\SFML_Game\main.cpp(1,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Player.cpp
+C:\Users\Pun Punyawat\OneDrive\Desktop\SFML\SFML_Game\SFML_Game\Player.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  weapon.cpp
+C:\Users\Pun Punyawat\OneDrive\Desktop\SFML\SFML_Game\SFML_Game\weapon.h(2,9): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  Generating Code...
